@@ -84,7 +84,3 @@ LinkedIn: [in/tedescogina]([url](https://www.linkedin.com/in/tedescogina/))
 If you use this work, please cite as:
 
 > Tedesco, G. (2025). *Lobbying and Language in EU Tech Regulation: A Comparative Analysis of the GDPR, DMA, and AI Act*. Master’s Thesis, Universidad Carlos III de Madrid.
-
-
-
-👉 Question for you: do you want your README to also include a **contact section** (email, LinkedIn, ORCID), like your classmate did, or do you prefer to keep it clean and academic-only?
