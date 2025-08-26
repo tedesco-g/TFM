@@ -27,22 +27,25 @@ The thesis investigates how corporate lobbying influences the linguistic framing
 ---
 
 ## Repository Contents
-Thesis Documents/
-├── gdpr_prop.pdf # General Data Protection Regulation, proposal text
-├── gdpr_final.pdf # General Data Protection Regulation, final text
-├── dma_prop.pdf # Digital Markets Act, proposal text
-├── dma.pdf # Digital Markets Act, final text
-├── ai_act_2021.pdf # AI Act, 2021 proposal
-├── ai_act_2023_parl.pdf # AI Act, European Parliament draft (2023)
-├── ai_act_council.pdf # AI Act, Council version
-└── ai_act_final.pdf # AI Act, final adopted version
 
-Scripts (R)/
-├── 01_data_preparation.R # Import and clean regulation texts
-├── 02_scoring_system.R # Lexical scoring (corporate vs. public-interest language)
-├── 03_comparative_analysis.R # Comparative analysis across GDPR, DMA, AI Act
-├── 04_visualizations.R # Generate plots, word clouds, and distribution graphs
-└── 05_export_results.R # Export tables and results for inclusion in thesis
+```bash
+📁 Thesis Documents/  
+ ├── gdpr_prop.pdf         # General Data Protection Regulation, proposal text  
+ ├── gdpr_final.pdf        # General Data Protection Regulation, final text  
+ ├── dma_prop.pdf          # Digital Markets Act, proposal text  
+ ├── dma.pdf               # Digital Markets Act, final text  
+ ├── ai_act_2021.pdf       # AI Act, 2021 proposal  
+ ├── ai_act_2023_parl.pdf  # AI Act, European Parliament draft (2023)  
+ ├── ai_act_council.pdf    # AI Act, Council version  
+ └── ai_act_final.pdf      # AI Act, final adopted version  
+
+📁 Scripts (R)/  
+ ├── 01_data_preparation.R     # Import and clean regulation texts  
+ ├── 02_scoring_system.R       # Lexical scoring (corporate vs. public-interest language)  
+ ├── 03_comparative_analysis.R # Comparative analysis across GDPR, DMA, AI Act  
+ ├── 04_visualizations.R       # Generate plots, word clouds, and distribution graphs  
+ └── 05_export_results.R       # Export tables and results for inclusion in thesis  
+```
 
 ## Key Findings
 
